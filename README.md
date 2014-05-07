@@ -1,4 +1,4 @@
 UnityValley
 ===========
 
-Monument Valley machanism in Unity3D
+Monument Valley mechanism in Unity3D
